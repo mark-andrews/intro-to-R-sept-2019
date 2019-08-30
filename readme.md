@@ -9,7 +9,7 @@ An updated schedule will be provided soon.
 The required software for this workshop is all free and open source
 and will run identically on Windows, Mac OS X, and Linux platforms.
 
-There are six main pieces of software to install:
+There are three main pieces of software to install:
 
 -   [R](https://www.r-project.org/): An environment for statistical
     computing.
