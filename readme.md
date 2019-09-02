@@ -1,8 +1,13 @@
-All materials and information for this workshop on will be made available in this repository.
+This is a brief introduction to R workshop.b
 
 # Schedule
 
-An updated schedule will be provided soon.
+* What is R and why should we care?
+* A guided tour of RStudio
+* First steps with R commands
+* Reading in and summarizing data
+* Visualizing data
+* t-tests, correlation, regression, anova
 
 # Software
 
